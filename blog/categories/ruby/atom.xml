@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ruby | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Ruby | The Code Tricks]]></title>
   <link href="http://spkprav.github.io/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://spkprav.github.io/"/>
-  <updated>2015-05-06T16:27:39+05:30</updated>
+  <updated>2015-05-06T16:38:43+05:30</updated>
   <id>http://spkprav.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Praveeb=n Kumar]]></name>
+    <email><![CDATA[spkprav@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
