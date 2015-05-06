@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://spkprav.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Ruby | My Octopress Blog]]></title>
+  <link href="http://spkprav.github.io/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://spkprav.github.io/"/>
   <updated>2015-05-06T16:27:39+05:30</updated>
   <id>http://spkprav.github.io/</id>
